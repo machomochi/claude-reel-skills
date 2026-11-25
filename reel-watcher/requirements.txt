@@ -1,0 +1,5 @@
+# Versions this was tested with (Python 3.12, Windows 11). Newer ones probably work too.
+yt-dlp==2026.10.26
+faster-whisper==1.2.1
+av==19.0.2
+numpy==2.5.4

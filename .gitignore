@@ -1,0 +1,10 @@
+venv/
+downloads/
+frames/
+screens/
+transcripts/
+__pycache__/
+*.bak*
+processed.json
+log.md
+insights.md
